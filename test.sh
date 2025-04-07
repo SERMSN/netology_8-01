@@ -17,6 +17,7 @@ fi
 if [ -z $2 ]
 then
 echo "No message parameter included."
+echo "Добавлена строчка 2"
 echo "Exit"
 exit
 fi
