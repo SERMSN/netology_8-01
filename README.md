@@ -6,3 +6,6 @@
 
 ## Задание 2
 ### Cсылка на [commit второе задание](https://github.com/SERMSN/netology_8-01/commit/066fed5422a4b5975e4159d2a7115687fb50ed35)
+
+## Задание 3
+### Cсылка на [граф коммитов](https://github.com/SERMSN/netology_8-01/network)
